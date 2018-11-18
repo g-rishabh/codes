@@ -6,7 +6,7 @@ int main()
 	int i,j,k,l,player1,player2,count=0,temp;
 	for(k=1;k<10;k++)
 	{
-		//Clear();
+		system("clear");
 		printf("\n");
 		for(i=0;i<3;i++)
 		{
